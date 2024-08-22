@@ -33,9 +33,9 @@ Upon achieving a satisfactory level of accuracy and reliability, deploying the t
 Continuously monitoring and maintaining the model's efficacy, adapting it as needed to accommodate evolving password patterns and emerging security threats.
 
 This project offers a substantial contribution to cybersecurity by automating the assessment of password strength. By providing a reliable and automated means of evaluating password security, it encourages users to adopt stronger password practices, enhancing the overall security posture of digital systems and safeguarding sensitive data against unauthorized access.
-## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishith-rao-cheeti-8031601aa/)
+
+
 
 
 
